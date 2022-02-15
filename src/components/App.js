@@ -8,3 +8,4 @@ const App = () => {
     </p>
   );
 };
+export default App;
